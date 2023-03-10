@@ -9,7 +9,7 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 #### 📫 How to reach me:
 - Email: shimantodevjs@gmail.com
 
-![Hello World Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Hello World Gif](https://media.tenor.com/mGgWY8RkgYMAAAAM/hello-world.gif)
 
 
 <!--
