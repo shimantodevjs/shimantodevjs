@@ -9,6 +9,8 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 #### 📫 How to reach me:
 - Email: shimantodevjs@gmail.com
 
+![Hello World Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 
 <!--
 **shimantodevjs/shimantodevjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
