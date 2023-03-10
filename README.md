@@ -12,13 +12,8 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 #### 📫 How to reach me:
 - Email: shimantodevjs@gmail.com
 
+<img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center;"/>
 
-
-<!-- <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" style= "height: 300px; width: 100%;"/> -->
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" style="width: 100%; height: 300px;"/>
-</div>
 
 
 
