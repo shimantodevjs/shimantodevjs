@@ -7,9 +7,7 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 - [React]
 
 #### 📫 How to reach me:
-- Email: [shimantodevjs@gmail.com]
-
-![JavaScript Gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+- Email: shimantodevjs@gmail.com
 
 
 <!--
