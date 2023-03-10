@@ -14,7 +14,7 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 
 
 
-<img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/media/6e483d743f91592d0ec62ece7ae850e3.gif" style="width: 400px; height: 300px;"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" style=height: 300px;"/>
 
 
 
