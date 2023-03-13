@@ -24,7 +24,7 @@ I am a Creative Person,with experience in building responsive and accessible web
 #### 📫 How to reach me:
 - Email: shimantodevjs@gmail.com
 
-<img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" style:"height:400px"/>
 
 ---
 
