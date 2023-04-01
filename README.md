@@ -42,7 +42,7 @@ I am a Creative Person,with experience in building responsive and accessible web
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png?20200316183539" />
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" />
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="vercel" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkarmanivero.us%2Fblog%2Fvercel-preview-branch-weirdness%2F&psig=AOvVaw1tkEBH3D8lbEB21ySnI9_9&ust=1680422799980000&source=images&cd=vfe&ved=2ahUKEwjUqeXxnIj-AhWBxSoKHepYAq4QjRx6BAgAEAo" />
+<img align="left" alt="vercel" width="30px" style="padding-right:10px;" src="https://karmanivero.us/assets/images/logo-vercel.png" />
 <br />
 
 
