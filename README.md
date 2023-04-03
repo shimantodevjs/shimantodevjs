@@ -43,7 +43,8 @@ I am a Creative Person,with experience in building responsive and accessible web
 <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333" />
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="vercel" width="30px" style="padding-right:10px;" src="https://karmanivero.us/assets/images/logo-vercel.png" />
-<img align="left" alt="formik" width="30px" style="padding-right:10px;" src="https://spin.atomicobject.com/wp-content/uploads/formik.png" />
+<img align="left" alt="formik" width="30px" style="padding-right:10px;" src="![image](https://user-images.githubusercontent.com/119046050/229498104-29fe6978-bf20-40b7-92fa-dc0301520bc2.png)
+" />
 <br />
 
 
