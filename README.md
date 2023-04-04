@@ -9,7 +9,8 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 #### 💬 Ask me about: Javascript and React
 #### 📚 Graduated from Lobachevsky University
 
-I am a Creative Person,with experience in building responsive and accessible web applications using HTML, CSS, and React js. My passion is creating beautiful and functional user interfaces that improve people's lives.
+I am a Creative Person,with experience in building responsive and accessible web applications using HTML, CSS, and React js. My passion is creating beautiful and functional user interfaces that improve people's lives.I am a fast learner,as a web developer i believe i should be like water. as water shape into any
+thing you pour into, i should be ready to accept new technologies and adapt to it
 
 <!-- #### Skills
 
