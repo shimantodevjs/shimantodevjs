@@ -12,7 +12,7 @@ I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my
 I am a Creative Person,with experience in building responsive and accessible web applications using HTML, CSS, and React js. My passion is creating beautiful and functional user interfaces that improve people's lives.I am a fast learner,as a web developer i believe i should be like water. as water shape into any
 thing you pour into, i should be ready to accept new technologies and adapt to it
 
-<!-- #### Skills
+#### Skills
 
 - HTML/CSS
 - JavaScript
@@ -20,7 +20,7 @@ thing you pour into, i should be ready to accept new technologies and adapt to i
 - tailwind css
 - Responsive Design
 - Accessibility
-- Teamwork -->
+- Teamwork
 
 #### 📫 How to reach me:
 - Email: shimantodevjs@gmail.com
