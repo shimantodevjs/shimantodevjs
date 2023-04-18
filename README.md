@@ -44,7 +44,7 @@ thing you pour into, i should be ready to accept new technologies and adapt to i
 <img align="left" alt="vercel" width="30px" style="padding-right:10px;" src="https://karmanivero.us/assets/images/logo-vercel.png" />
 <img align="left" alt="materialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="ChatGTP" width="30px" style="padding-right:10px;" src="https://freebiehive.com/wp-content/uploads/2023/02/ChatGPT-Logo-PNG-1-758x473.jpg" />
+<img align="left" alt="ChatGTP" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
 <br />
 
 
