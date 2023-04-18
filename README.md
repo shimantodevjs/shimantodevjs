@@ -5,7 +5,7 @@
 
 I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my GitHub profile!
 
-#### 🌱 I’m currently learning: tailwind css
+#### 🌱 I’m currently learning: Next JS
 #### 💬 Ask me about: Javascript and React
 #### 📚 Graduated from Lobachevsky University
 
