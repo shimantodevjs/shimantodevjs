@@ -17,6 +17,7 @@ thing you pour into, i should be ready to accept new technologies and adapt to i
 - HTML/CSS
 - JavaScript
 - React
+- Material UI
 - Sass
 - Responsive Design
 - Accessibility
