@@ -46,8 +46,6 @@ thing you pour into, i should be ready to accept new technologies and adapt to i
 <img align="left" alt="materialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="ChatGTP" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
-<img align="left" alt="ChatGTP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img align="left" alt="ChatGTP" width="30px" style="padding-right:10px;" src="https://stackdiary.com/wp-content/uploads/2023/03/React-Router.png" />
 <br />
 
 
