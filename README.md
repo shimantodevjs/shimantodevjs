@@ -19,6 +19,7 @@ thing you pour into, i should be ready to accept new technologies and adapt to i
 - React
 - Material UI
 - Sass
+- Redux/Redux toolkit
 - Responsive Design
 - Accessibility
 - Teamwork
