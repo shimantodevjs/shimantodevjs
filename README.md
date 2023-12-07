@@ -17,12 +17,13 @@ thing you pour into, i should be ready to accept new technologies and adapt to i
 - HTML/CSS
 - JavaScript
 - React
-- Material UI
+- Tailwind CSS
 - Sass
 - Redux/Redux toolkit
 - Responsive Design
-- Accessibility
+- Material UI
 - Teamwork
+- Fluent in English
 
 #### 📫 How to reach me:
 - Email: shimantodevjs@gmail.com
