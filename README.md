@@ -10,7 +10,7 @@ I'm Nahid Hasan, a Front-end developer currently living in Bangladesh. Welcome t
 #### 📚 Graduated from Lobachevsky University,Russia
 
 I am a Creative Person,with experience in building responsive and accessible web applications using React js. My passion is creating beautiful and functional user interfaces that improve people's lives.I am a fast learner,as a web developer i believe i should be like water. as water shape into any
-thing you pour into, i should be ready to accept new technologies and adapt to it
+thing you pour into, i should be ready to learn and adapt to new technologies.👨‍💻
 
 #### Skills
 
