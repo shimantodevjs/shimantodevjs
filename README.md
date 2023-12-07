@@ -3,13 +3,13 @@
 <img src="https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png"/>
 
 
-I'm Nahid Hasan, a Front-end developer currently living in Russia. Welcome to my GitHub profile!
+I'm Nahid Hasan, a Front-end developer currently living in Bangladesh. Welcome to my GitHub profile!
 
 #### 🌱 I’m currently learning: Next JS & Typescript
 #### 💬 Ask me about: Javascript and React
-#### 📚 Graduated from Lobachevsky University
+#### 📚 Graduated from Lobachevsky University,Russia
 
-I am a Creative Person,with experience in building responsive and accessible web applications using HTML, CSS, and React js. My passion is creating beautiful and functional user interfaces that improve people's lives.I am a fast learner,as a web developer i believe i should be like water. as water shape into any
+I am a Creative Person,with experience in building responsive and accessible web applications using React js. My passion is creating beautiful and functional user interfaces that improve people's lives.I am a fast learner,as a web developer i believe i should be like water. as water shape into any
 thing you pour into, i should be ready to accept new technologies and adapt to it
 
 #### Skills
